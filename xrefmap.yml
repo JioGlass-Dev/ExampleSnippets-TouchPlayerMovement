@@ -1,0 +1,15 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: JMRSDKExampleSnippets.TouchPlayerMovement
+  name: JMRSDKExampleSnippets.TouchPlayerMovement
+  href: api/JMRSDKExampleSnippets.TouchPlayerMovement.html
+  commentId: N:JMRSDKExampleSnippets.TouchPlayerMovement
+  fullName: JMRSDKExampleSnippets.TouchPlayerMovement
+  nameWithType: JMRSDKExampleSnippets.TouchPlayerMovement
+- uid: JMRSDKExampleSnippets.TouchPlayerMovement.TouchPlayerMovement
+  name: TouchPlayerMovement
+  href: api/JMRSDKExampleSnippets.TouchPlayerMovement.TouchPlayerMovement.html
+  commentId: T:JMRSDKExampleSnippets.TouchPlayerMovement.TouchPlayerMovement
+  fullName: JMRSDKExampleSnippets.TouchPlayerMovement.TouchPlayerMovement
+  nameWithType: TouchPlayerMovement

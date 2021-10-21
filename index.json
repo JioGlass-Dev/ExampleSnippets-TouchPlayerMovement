@@ -1,0 +1,22 @@
+{
+  "api/JMRSDKExampleSnippets.TouchPlayerMovement.html": {
+    "href": "api/JMRSDKExampleSnippets.TouchPlayerMovement.html",
+    "title": "Namespace JMRSDKExampleSnippets.TouchPlayerMovement | JMR Samples",
+    "keywords": "Namespace JMRSDKExampleSnippets.TouchPlayerMovement Classes TouchPlayerMovement The TouchPlayerMovement class handles the functionality for making the player move using Touch Actions."
+  },
+  "api/JMRSDKExampleSnippets.TouchPlayerMovement.TouchPlayerMovement.html": {
+    "href": "api/JMRSDKExampleSnippets.TouchPlayerMovement.TouchPlayerMovement.html",
+    "title": "Class TouchPlayerMovement | JMR Samples",
+    "keywords": "Class TouchPlayerMovement The TouchPlayerMovement class handles the functionality for making the player move using Touch Actions. Inheritance Object TouchPlayerMovement Namespace : JMRSDKExampleSnippets.TouchPlayerMovement Assembly : cs.temp.dll.dll Syntax public class TouchPlayerMovement : MonoBehaviour Remarks Please make sure that JMRInteraction Script is attached"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "ExampleSnippets-TouchPlayerMovement | JMR Samples",
+    "keywords": "ExampleSnippets-TouchPlayerMovement"
+  },
+  "manual/JMRSamples.html": {
+    "href": "manual/JMRSamples.html",
+    "title": "Sample | JMR Samples",
+    "keywords": "Sample"
+  }
+}
