@@ -11,8 +11,8 @@
   },
   "index.html": {
     "href": "index.html",
-    "title": "ExampleSnippets-TouchPlayerMovement | JMR Samples",
-    "keywords": "ExampleSnippets-TouchPlayerMovement Touch based player movement example"
+    "title": "Touch Player Movement | JMR Samples",
+    "keywords": "Touch Player Movement Example of implementing touchpad touch based player movement Scripts TouchPlayerMovement.cs Shows example of moving the player on controller touch. Getting the touch value from the controller cs Vector2 touchValue = JMRSDK.InputModule.GetTouchValue(); How to use? Download and unzip this project. Open the project using Unity Hub. Download and import the latest version of JMRSDK package. Open and play the TouchPlayerMovement scene from Assets/Scenes folder."
   },
   "manual/JMRSamples.html": {
     "href": "manual/JMRSamples.html",
